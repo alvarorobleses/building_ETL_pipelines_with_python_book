@@ -5,9 +5,9 @@ build/
 dist/
 wheels/
 *.egg-info
+.python-version
 
 # Virtual environments
 .venv
 .idea/
-.python-version
 .src/
